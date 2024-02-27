@@ -1,4 +1,4 @@
-warp://G5M6Wa28-w4a90P8h-08NTS62s@188.114.98.81:3581/?ifp=5-10#Warp-Germany
-warp://G5M6Wa28-w4a90P8h-08NTS62s@auto#Warp-Iran
-warp://auto#Warp-Iran-NoLicense
-warp://auto#WarpInWarp &&detour=warp://auto#Warp
+warp://188.114.98.81:3581/?ifp=5-10#Warp-Germany
+warp://auto/?ifp=5-10#Warp-Iran
+warp://auto/?ifp=5-10#Warp-Iran-NoLicense
+warp://auto/?ifp=5-10#WarpInWarp &&detour=warp://auto/?ifp=5-10#Warp
